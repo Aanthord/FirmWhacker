@@ -1,4 +1,4 @@
-# fw-clean — Firmware Persistence Cleaner
+# FirmWhacker — Firmware Persistence Cleaner
 
 Wipes unused slack space in eMMC firmware partitions to eliminate persistence mechanisms hiding in partition tail padding.
 
